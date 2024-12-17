@@ -49,3 +49,7 @@ If you are interested in our paper, please cite as below
   year={2024}
 }
 ```
+
+## Reference
+
+[IMPUS](https://github.com/GoL2022/IMPUS), [AudioLDM2](https://github.com/haoheliu/AudioLDM2), [AudioLDM-eval](https://github.com/haoheliu/audioldm_eval)
